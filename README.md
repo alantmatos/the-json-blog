@@ -36,16 +36,10 @@ A full CRUD app using React(frontend) + Rails(backend), It allows the users to a
 
 
 
-The Json Blog started back the summer, during a coding program we had a rubber ducky in the room and I named it Json, Json was the class .
-
-Here's why:
-* If you have an awesome place for camping, you can quickly create an account, create a campground with description, price and photos.
-* A user can review the campground base on his/her experience.
-* When you see an awesome looking campground, please share  :smile:
-
-Of course, no campring area would be complete without a map to help you quickly find out what direction to head up for, That's why Yelpcamp counts
-with an awesome interacting map, pinned right on top of your next camping paradise. Geocoding is also put in place to make sure the user creating a campground
-will also be able to display its location accurately. 
+The Json Blog started back in 2022 summer, during a coding program I was on, we had a rubber ducky in the classroom and I named it Json, Json was the class's mascot, and we would talk to Json and explain the code everytime we were stuck with some bug and Json would help us figure it out.
+For every situation I would create a blog post and sigh it as Json.
+It was a fun experience and by the end of the program everyone knew and enjoyed Json's help.
+Sadly "json's" original posts were lost when I had to reinstall my OS since the app wasn't deployed.
 
 
 
@@ -96,7 +90,6 @@ Alan
 * https://www.linkedin.com/in/alantmatos/ -  Linkedin
 * https://github.com/alantmatos - GitHub
 
-Project Link: 
 
 
 
